@@ -177,9 +177,9 @@ parse_ula_subscription_data(struct avp *avp_ptr, struct ula_Q_msg *ula)
 						// if(g_fd_dict_data.service_slection ==
 						if (493 == apn_cfg_element->avp_code){
 
-							printf("APN name recvd from hss - %s\n",
+							log_msg(LOG_INFO, "APN name recvd from hss - %s\n",
 									apn_cfg_element->avp_value->os.data);
-							printf("APN length recvd from hss - %d\n",
+							log_msg(LOG_INFO, "APN length recvd from hss - %lu\n",
 									apn_cfg_element->avp_value->os.len);
 
 							memcpy(ula->selected_apn.val,
