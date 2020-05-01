@@ -1,3 +1,8 @@
+/*
+ * Copyright 2019-present Open Networking Foundation
+ *
+ * SPDX-License-Identifier: Apache-2.0
+*/
 #include "s1apContextWrapper.h"
 #include "s1apDataGroupManager.h"
 #include "dataBlocks.h"

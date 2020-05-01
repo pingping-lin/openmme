@@ -1,4 +1,9 @@
 /*
+ * Copyright 2019-present Open Networking Foundation
+ *
+ * SPDX-License-Identifier: Apache-2.0
+*/
+/*
  * gtpV2IeFactory.cpp
  *
  *  Created on: Jul 10, 2014

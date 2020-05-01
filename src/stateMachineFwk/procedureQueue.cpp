@@ -1,4 +1,9 @@
 /*
+ * Copyright 2019-present Open Networking Foundation
+ *
+ * SPDX-License-Identifier: Apache-2.0
+*/
+/*
  * Copyright (c) 2019, Infosys Ltd.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");

@@ -1,3 +1,8 @@
+/*
+ * Copyright 2019-present Open Networking Foundation
+ *
+ * SPDX-License-Identifier: Apache-2.0
+*/
 #include "gtpV2Stack.h"
 #include "msgBuffer.h"
 #include "gtpV2StackWrappers.h"

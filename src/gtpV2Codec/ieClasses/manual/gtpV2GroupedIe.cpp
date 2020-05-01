@@ -1,4 +1,9 @@
 /*
+ * Copyright 2019-present Open Networking Foundation
+ *
+ * SPDX-License-Identifier: Apache-2.0
+*/
+/*
  * gtpV2GroupedIe.cpp
  *
  *  Created on: Jul 14, 2014
